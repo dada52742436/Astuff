@@ -1,0 +1,35 @@
+.bellroy-robot {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.grid {
+  display: inline-block;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 80px;
+  height: 80px;
+  border: 1px solid #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.controlPanel {
+  margin-top: 40px;
+}
+
+button {
+  margin: 5px;
+  padding: 15px 25px;
+  font-size: 15px;
+}
+.logoImage {
+  width: 80px;
+  height: 80px;
+}
